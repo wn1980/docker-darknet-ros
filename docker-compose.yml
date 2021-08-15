@@ -3,7 +3,7 @@ version: "2.3"
 networks:
   default:
     external:
-      name: robot-ops_default
+      name: ros-network
                 
 volumes:
   workspace:
